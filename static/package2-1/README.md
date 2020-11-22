@@ -1,3 +1,5 @@
+## 说明在 DESCRIPTION.md
+
 # pages-boilerplate
 
 [![Build Status][travis-image]][travis-url]
