@@ -21,3 +21,6 @@
 ### serve 说明文档
 * compile：处理html，js，scss文件，生成浏览器可读文件
 * serve：启动node服务，监听静态文件变化
+
+### https://www.npmjs.com/package/earhart-gulp-pages
+### yarn add earhart-gulp-pages --dev
